@@ -8,16 +8,16 @@ let currentImgIndex = 0
 const myAudio = new Audio()
 
 const mediaArr = [
-    { src: "dukedamont.jpg",
-     audio: "dukedamont.mp3"},
-    { src: "designed.jpg",
-     audio: "designed.mp3"},
-    { src: "agar.jpg",
-     audio: "agar-agar.mp3"},
-    { src: "joji.jpg",
-     audio: "test-drive.mp3"},
-    { src: "breath.jpg",
-     audio: "breathing.mp3"}
+    { src: "carousel/images/dukedamont.jpg",
+     audio: "carousel/audio/dukedamont.mp3"},
+    { src: "carousel/images/designed.jpg",
+     audio: "carousel/audio/designed.mp3"},
+    { src: "carousel/images/agar.jpg",
+     audio: "carousel/audio/agar-agar.mp3"},
+    { src: "carousel/images/joji.jpg",
+     audio: "carousel/audio/test-drive.mp3"},
+    { src: "carousel/images/breath.jpg",
+     audio: "carousel/audio/breathing.mp3"}
 ]
 
 /*Media goes to first index of mediaArr.
